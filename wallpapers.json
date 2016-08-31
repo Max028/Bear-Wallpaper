@@ -7,16 +7,28 @@
       "thumbnail": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_1_thumbnail%20.jpg"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-      "name": "Heads Up",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_2.jpg",
+      "name": "Wall 2",
+      "thumbnail": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_2_thumbnail.jpg"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":" Flamingos",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      "author": "Thom Freitas",
+      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_3.jpg",
+      "name":" Wall 3",
+      "thumbnail": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_3_thumbnail.jpg"
+    },
+    {
+      "author": "Thomas Freitas",
+      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_4.jpg",
+      "name": "Wall 4",
+      "thumbnail": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_4_thumbnail.jpg"
+    },
+    {
+      "author": "Thomas Freitas",
+      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_5.jpg",
+      "name": "Wall 5",
+      "thumbnail": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_5_thumbnail.jpg"
     }
   ]
 }
