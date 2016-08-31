@@ -2,9 +2,8 @@
   "wallpapers": [
     {
       "author": "Tom Wellington",
-      "url": "https://github.com/Max028/Bear-Wallpaper/blob/master/leaf.PNG",
-      "name": "East Branch",
-      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/leaf.PNG",
+      "name": "LEAF",
     },
     {
       "author": "Tom Wellington",
