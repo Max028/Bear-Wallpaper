@@ -19,4 +19,4 @@ The images are by their respective authors, credited for each wallpaper in [`wal
 
 ## Maintenance note
 
-The wallpaper pack was put together and published by Max028 in 2017. In November 2026 the repository was only reviewed: this README was added with the help of Claude, an AI assistant by Anthropic. No image or JSON file was changed.
+The wallpaper pack was put together and published by Max028 in 2017. In November 2026 the repository was only reviewed: this README (and a small `.gitattributes` setting that lets GitHub show the JSON language) was added with the help of Claude, an AI assistant by Anthropic. No image or JSON file was changed.
