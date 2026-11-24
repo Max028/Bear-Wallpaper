@@ -16,3 +16,7 @@ The images are by their respective authors, credited for each wallpaper in [`wal
 ## Copyright
 
 **All rights to the images remain with their authors.** This repository exists only to deliver the wallpapers to the Bear theme: it does not grant any license to reuse, modify or redistribute them. If you want to use an image, please contact its author.
+
+## Maintenance note
+
+The wallpaper pack was put together and published by Max028 in 2017. In November 2026 the repository was only reviewed: this README was added with the help of Claude, an AI assistant by Anthropic. No image or JSON file was changed.
